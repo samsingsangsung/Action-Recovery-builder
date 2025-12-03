@@ -29,4 +29,4 @@
 #### [Release](../../releases)
 ---
 ## Special thanks:
-#### [Mujianwu](https://github.com/mujianwu)) for the builder.
+#### [Mujianwu](https://github.com/mujianwu) for the builder.
