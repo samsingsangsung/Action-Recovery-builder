@@ -25,10 +25,10 @@ Supports TWRP building.
 ![](https://i.bmp.ovh/imgs/2021/10/23896d1b66292047.png)
 #### 4. Click "Run workflow" and fill the params as needed
 ![](https://i.bmp.ovh/imgs/2021/10/9cb7871267cf2f53.png)
-#### 5. Press the "Run workflow" to start building.
+#### 5. Press the "Run workflow" button below to start building.
 ---
 ## Builds
 #### [Release](../../releases)
 ---
-## Acknowledgements:
-#### https://github.com/samsingsangsung/Action-Recovery-builder for the builder. Thank you!
+## Special thanks:
+#### [Azwhikaru](https://github.com/azwhikaru) for the builder.
