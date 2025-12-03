@@ -77,7 +77,7 @@ jobs:
     - name: Repo Sync
       run: |
         cd workspace
-        repo sync -j$(nproc --all) -f --force-sync
+        repo sync -j$(nproc --all)
         ls -al
       
     - name: Clone device
