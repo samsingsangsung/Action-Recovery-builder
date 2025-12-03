@@ -28,7 +28,7 @@ Supports TWRP building.
 #### 5. Press the "Run workflow" to start building.
 ---
 ## Builds
-[Release](../../releases)
+#### [Release](../../releases)
 ---
 ## Acknowledgements:
 #### https://github.com/samsingsangsung/Action-Recovery-builder for the builder. Thank you!
